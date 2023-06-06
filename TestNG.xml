@@ -1,5 +1,10 @@
 <suite name = "Google">
     <test name = "Searching Google">
+        <groups>
+            <run>
+                <include name = "Smoke"/>
+            </run>
+        </groups>
         <classes>
             <class name = "org.example.googleMethods"/>
         </classes>

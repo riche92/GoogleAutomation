@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 public class googleMethods {
     WebDriver driver;
-    @Test
+    @Test(groups = {"Smoke"})
         public void login(){
             System.setProperty("webdriver.chrome.driver", "/Users/wild_/OneDrive/Documents/chromedriver.exe");
             driver = new ChromeDriver();
