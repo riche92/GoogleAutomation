@@ -1,0 +1,7 @@
+<suite name = "Google">
+    <test name = "Searching Google">
+        <classes>
+            <class name = "org.example.googleMethods"/>
+        </classes>
+    </test>
+</suite>
