@@ -30,6 +30,7 @@ public class googleMethods {
         @Test
         public void search(){
         driver.findElement(By.xpath("//*[@type='search']")).sendKeys("Fried Chicken");
+            System.out.println("Complete");
 
 
         }
