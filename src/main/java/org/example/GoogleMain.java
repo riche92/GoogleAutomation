@@ -6,6 +6,7 @@ public class GoogleMain {
         System.setProperty("webdriver.chrome.driver", "/Users/wild_/OneDrive/Documents/chromedriver.exe");
         googleMethods Google = new googleMethods();
         Google.login();
+        Google.search();
 
 
     }
