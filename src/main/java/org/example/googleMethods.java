@@ -15,6 +15,7 @@ public class googleMethods {
             driver.get("https://google.com");
             driver.findElement(By.cssSelector("span[class = gb_Md]")).click();
             driver.findElement(By.xpath("//input[@type='email']")).sendKeys("richardeng92@gmail.com");
+            driver.findElement(By.xpath("//*[@id='identifierNext']/div/button")).click();
         }
 
         public void search(){
