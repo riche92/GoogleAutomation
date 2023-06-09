@@ -1,12 +1,14 @@
 package org.example;
 
-public class GoogleMain {
-    public static void main(String[] args) {
+import java.io.IOException;
 
-        System.setProperty("webdriver.chrome.driver", "/Users/wild_/OneDrive/Documents/chromedriver.exe");
+public class GoogleMain {
+    public static void main(String[] args) throws IOException {
         googleMethods Google = new googleMethods();
+        Google.setUp();
         Google.login();
         Google.search();
+
 
 
     }
