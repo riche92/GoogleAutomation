@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c26f0a97-adec-4bab-b296-d3067516038b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assignments/src/main/java/org/example/NestedLoopAssignment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Google/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Google/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Google/TestNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Google/TestNG.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Google/src/main/java/org/example/GoogleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Google/src/main/java/org/example/GoogleMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Google/src/main/java/org/example/googleMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Google/src/main/java/org/example/googleMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Google/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Google/target/classes/org/example/googleMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Google/target/classes/org/example/googleMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumIntro/target/classes/org/example/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumIntro/target/classes/org/example/Methods.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Qo2SSw3PhCeKss7xqwAirXvQW2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_directory_selection": "C:/Users/wild_/SeleniumProject/SeleniumProject/Assignments/src/main/java/org/example",
+    "last_opened_file_path": "C:/Users/wild_/IdeaProjects/Javahomework"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Assignments.src.main.java.org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BrokenLinks">
+    <configuration name="BrokenLinks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.BrokenLinks" />
+      <module name="Locators (1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Methods.addItems" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Locators (1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Methods" />
+      <option name="METHOD_NAME" value="addItems" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BrokenLinks" />
+        <item itemvalue="TestNG.Methods.addItems" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c26f0a97-adec-4bab-b296-d3067516038b" name="Changes" comment="" />
+      <created>1686005612683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686005612683</updated>
+    </task>
+    <servers />
+  </component>
+</project>

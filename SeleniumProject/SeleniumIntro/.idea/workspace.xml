@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34f2eb11-4ba0-4598-bd4c-b4cce28244e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_netty_netty_buffer_4_1_91_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_netty_netty_codec_4_1_91_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_netty_netty_codec_http_4_1_91_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_netty_netty_common_4_1_91_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_netty_netty_handler_4_1_91_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_netty_netty_resolver_4_1_91_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_netty_netty_transport_4_1_91_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_netty_netty_transport_classes_epoll_4_1_91_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_netty_netty_transport_classes_kqueue_4_1_91_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_91_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_4_1_91_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_91_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_1_25_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_events_1_25_0_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_logs_1_25_0_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_opentelemetry_opentelemetry_context_1_25_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_opentelemetry_opentelemetry_exporter_logging_1_25_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_1_25_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_common_1_25_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_1_25_0_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_extension_autoconfigure_spi_1_25_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_logs_1_25_0_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_metrics_1_25_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_opentelemetry_opentelemetry_sdk_trace_1_25_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__io_opentelemetry_opentelemetry_semconv_1_25_0_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_14_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chromium_driver_4_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v111_4_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v112_4_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v113_4_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_v85_4_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_http_4_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_json_4_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_manager_4_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Google/TestNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Google/src/main/java/org/example/googleMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CoreJavabrushup/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaStream/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumIntro/target/classes/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumIntro/target/classes/org/example/ActionsIntro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumIntro/target/classes/org/example/Alerts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumIntro/target/classes/org/example/AssignmentUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumIntro/target/classes/org/example/BrokenLinks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumIntro/target/classes/org/example/Calendar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumIntro/target/classes/org/example/FluentwaitTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumIntro/target/classes/org/example/FluentwaitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumIntro/target/classes/org/example/Frames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumIntro/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumIntro/target/classes/org/example/Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumIntro/target/classes/org/example/MultipleWindowTabs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumIntro/target/classes/org/example/RelativeLoc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumIntro/target/classes/org/example/Scroll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumIntro/target/classes/org/example/Shoppingcart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumIntro/target/classes/org/example/UIActionPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumIntro/target/classes/org/example/UIActionPractice2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumIntro/target/classes/org/example/WebddriverScopeOptimizedWhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumIntro/target/classes/org/example/WindowHandles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumIntro/target/classes/org/example/chromeOptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaStream/JavaStream.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaStream/JavaStream.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Locators (1).iml" beforeDir="false" afterPath="$PROJECT_DIR$/Locators (1).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Google.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Google.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2Qo1HcFQ3rkyR8LH4kEXzPoT6db" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/wild_/SeleniumProject/SeleniumProject"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34f2eb11-4ba0-4598-bd4c-b4cce28244e8" name="Changes" comment="" />
+      <created>1686005033182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686005033182</updated>
+    </task>
+    <servers />
+  </component>
+</project>
