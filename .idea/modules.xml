@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConditionalLoops/ConditionalLoops.iml" filepath="$PROJECT_DIR$/ConditionalLoops/ConditionalLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstJavaProgram/FirstJavaProgram.iml" filepath="$PROJECT_DIR$/FirstJavaProgram/FirstJavaProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeleniumProject/JavaStream/JavaStream.iml" filepath="$PROJECT_DIR$/SeleniumProject/JavaStream/JavaStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javahomework/Javahomework.iml" filepath="$PROJECT_DIR$/Javahomework/Javahomework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javapackages/Javapackages.iml" filepath="$PROJECT_DIR$/Javapackages/Javapackages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modifiers/Modifiers.iml" filepath="$PROJECT_DIR$/Modifiers/Modifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test Project/Test Project.iml" filepath="$PROJECT_DIR$/Test Project/Test Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeleniumProject/TestNG/TestNG.iml" filepath="$PROJECT_DIR$/SeleniumProject/TestNG/TestNG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Writinginteractive/Writinginteractive.iml" filepath="$PROJECT_DIR$/Writinginteractive/Writinginteractive.iml" />
+    </modules>
+  </component>
+</project>

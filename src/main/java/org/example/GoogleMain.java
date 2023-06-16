@@ -8,6 +8,7 @@ public class GoogleMain {
         Google.setUp();
         Google.login();
         Google.search();
+        Google.driver.quit();
 
 
 

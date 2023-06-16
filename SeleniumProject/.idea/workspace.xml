@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c26f0a97-adec-4bab-b296-d3067516038b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assignments/src/main/java/org/example/NestedLoopAssignment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Google/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Google/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Google/TestNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Google/TestNG.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Google/src/main/java/org/example/GoogleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Google/src/main/java/org/example/GoogleMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Google/src/main/java/org/example/googleMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Google/src/main/java/org/example/googleMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Google/target/classes/org/example/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Google/target/classes/org/example/googleMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Google/target/classes/org/example/googleMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumIntro/target/classes/org/example/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumIntro/target/classes/org/example/Methods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Google" beforeDir="false" afterPath="$PROJECT_DIR$/../Google" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/GoogleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/org/example/GoogleMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/example/googleMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/org/example/googleMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/org/example/GoogleMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/org/example/GoogleMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/org/example/googleMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../target/classes/org/example/googleMethods.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_directory_selection": "C:/Users/wild_/SeleniumProject/SeleniumProject/Assignments/src/main/java/org/example",
-    "last_opened_file_path": "C:/Users/wild_/IdeaProjects/Javahomework"
+    "last_opened_file_path": "C:/Users/wild_/SeleniumProject"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -61,6 +58,19 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="JavaStream" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="JavaStream" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>

@@ -71,7 +71,12 @@ public class googleMethods {
                 a.assertTrue(false);*/
         }
         soft.assertAll();
-        driver.quit();
+        }
+
+        @Test
+        public void email(){
+        driver.navigate().to("https://google.com");
+        driver.findElement(By.xpath("//*[@href='https://mail.google.com/mail/&ogbl']")).click();
         }
 
     }
